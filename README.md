@@ -16,3 +16,5 @@
 - - What books I'm reading or video games I'm playing.
 
 - 😄 Pronouns: He/Him
+
+I've been poking around at various topics and repositories, and I'm finding myself taken by the kinds of stuff you can find in [GLAM respositories](https://github.com/topics/glam), they're quite fascinating and enjoyable to dig into.
